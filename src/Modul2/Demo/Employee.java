@@ -53,7 +53,7 @@ public class Employee {
     }
 }
 
-class Project {
+public class Project {
     public String projectName;
     public String projectDeadline;
     public Employee projectLeader;
@@ -79,7 +79,7 @@ class Project {
     }
 }
 
-class Client {
+public class Client {
     public String clientName;
     public String clientEmail;
     public Project project;
